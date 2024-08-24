@@ -64,4 +64,4 @@ Thank you for checking out the YouTube Clone! Utilized design resources from Jav
 
 ---
 
-Made with ❤️ by Aaradhya Pathak
+Made with ❤️ by Rakshith
